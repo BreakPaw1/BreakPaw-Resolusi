@@ -1,0 +1,6 @@
+Rencana BreakPaw1
+-Nyelesain html semuanya
+*Bikin Projek dari html only
+-Nyelesain CSS 
+*Bikin web menggunakan html&css
+-Nyelesain Javascript
