@@ -1,0 +1,4 @@
+Rencana BreakPaw1
+-Nyelesain html semuanya
+-Nyelesain CSS 
+-Nyelesain Javascript
